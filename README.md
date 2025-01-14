@@ -50,7 +50,7 @@ A colorful and interactive To-Do List web application built with Flask and Boots
 ---
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/a3764474-e418-41fe-8ed8-8686bf082b18)
+![Screenshot 2025-01-14 203420](https://github.com/user-attachments/assets/86608bd9-9556-426a-9c39-da214f75d543)
 
 
 
